@@ -23,4 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0770-couples-holding-hands](https://github.com/kumkumbablani/Coding-Activity/tree/master/0770-couples-holding-hands) |
+## Array
+|  |
+| ------- |
+| [0041-first-missing-positive](https://github.com/kumkumbablani/Coding-Activity/tree/master/0041-first-missing-positive) |
+## Hash Table
+|  |
+| ------- |
+| [0041-first-missing-positive](https://github.com/kumkumbablani/Coding-Activity/tree/master/0041-first-missing-positive) |
 <!---LeetCode Topics End-->
