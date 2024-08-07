@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/kumkumbablani/Coding-Activity/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kumkumbablani/Coding-Activity/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/kumkumbablani/Coding-Activity/tree/master/0645-set-mismatch) |
+| [0792-binary-search](https://github.com/kumkumbablani/Coding-Activity/tree/master/0792-binary-search) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/kumkumbablani/Coding-Activity/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1635-number-of-good-pairs](https://github.com/kumkumbablani/Coding-Activity/tree/master/1635-number-of-good-pairs) |
 | [2048-build-array-from-permutation](https://github.com/kumkumbablani/Coding-Activity/tree/master/2048-build-array-from-permutation) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/kumkumbablani/Coding-Activity/tree/master/0268-missing-number) |
+| [0792-binary-search](https://github.com/kumkumbablani/Coding-Activity/tree/master/0792-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
