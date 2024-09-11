@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/kumkumbablani/Coding-Activity/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1635-number-of-good-pairs](https://github.com/kumkumbablani/Coding-Activity/tree/master/1635-number-of-good-pairs) |
 | [2048-build-array-from-permutation](https://github.com/kumkumbablani/Coding-Activity/tree/master/2048-build-array-from-permutation) |
+| [2727-number-of-senior-citizens](https://github.com/kumkumbablani/Coding-Activity/tree/master/2727-number-of-senior-citizens) |
 ## Hash Table
 |  |
 | ------- |
@@ -92,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/kumkumbablani/Coding-Activity/tree/master/1013-fibonacci-number) |
+## String
+|  |
+| ------- |
+| [2727-number-of-senior-citizens](https://github.com/kumkumbablani/Coding-Activity/tree/master/2727-number-of-senior-citizens) |
 <!---LeetCode Topics End-->
