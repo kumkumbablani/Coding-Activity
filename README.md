@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/kumkumbablani/Coding-Activity/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/kumkumbablani/Coding-Activity/tree/master/0645-set-mismatch) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kumkumbablani/Coding-Activity/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Sorting
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/kumkumbablani/Coding-Activity/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/kumkumbablani/Coding-Activity/tree/master/1013-fibonacci-number) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kumkumbablani/Coding-Activity/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/kumkumbablani/Coding-Activity/tree/master/1635-number-of-good-pairs) |
 ## Binary Search
 |  |
