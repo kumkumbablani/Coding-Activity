@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kumkumbablani/Coding-Activity/tree/master/0011-container-with-most-water) |
 | [0770-couples-holding-hands](https://github.com/kumkumbablani/Coding-Activity/tree/master/0770-couples-holding-hands) |
 ## Depth-First Search
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kumkumbablani/Coding-Activity/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/kumkumbablani/Coding-Activity/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kumkumbablani/Coding-Activity/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/kumkumbablani/Coding-Activity/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/kumkumbablani/Coding-Activity/tree/master/0042-trapping-rain-water) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kumkumbablani/Coding-Activity/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kumkumbablani/Coding-Activity/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/kumkumbablani/Coding-Activity/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/kumkumbablani/Coding-Activity/tree/master/0189-rotate-array) |
