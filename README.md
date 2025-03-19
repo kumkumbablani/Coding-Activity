@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/kumkumbablani/Coding-Activity/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kumkumbablani/Coding-Activity/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kumkumbablani/Coding-Activity/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/kumkumbablani/Coding-Activity/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/kumkumbablani/Coding-Activity/tree/master/0645-set-mismatch) |
 | [0792-binary-search](https://github.com/kumkumbablani/Coding-Activity/tree/master/0792-binary-search) |
 | [0932-monotonic-array](https://github.com/kumkumbablani/Coding-Activity/tree/master/0932-monotonic-array) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kumkumbablani/Coding-Activity/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kumkumbablani/Coding-Activity/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kumkumbablani/Coding-Activity/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/kumkumbablani/Coding-Activity/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/kumkumbablani/Coding-Activity/tree/master/0645-set-mismatch) |
 | [1635-number-of-good-pairs](https://github.com/kumkumbablani/Coding-Activity/tree/master/1635-number-of-good-pairs) |
 ## Bit Manipulation
@@ -121,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kumkumbablani/Coding-Activity/tree/master/0042-trapping-rain-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/kumkumbablani/Coding-Activity/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
