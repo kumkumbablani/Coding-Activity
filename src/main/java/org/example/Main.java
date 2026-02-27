@@ -7,6 +7,9 @@ import java.util.Set;
 
 public class Main {
     public static void main(String[] args) {
+        int[] num = {7 , 9  , 1, 0 , 4 , 10};
+        insertionSort(num);
+        System.out.println(Arrays.toString(num));
         String paragraph = "A short paragraph is a group of related sentences" +
                 " that develop a single, specific idea, often between three to five sentences long";
         System.out.println(findLongest(paragraph));
@@ -113,5 +116,17 @@ public class Main {
 //        else {
 //            System.out.print(s.charAt(i));
 //        }
+
+    public static void insertionSort(int[] nums){
+        for (int i = 0; i < nums.length; i++) {
+            for (int j = 1; j < nums.length; j++) {
+                if(nums[j] > nums[j-1]){
+                    int temp = nums[j];
+                    nums[j] =  nums[j - 1];
+                    nums[j-1] = temp;
+                }
+            }
+        }
+    }
 
 }

@@ -40,6 +40,7 @@ public class Demo {
             }
         }
 
+        result.append(s.charAt(s.length()-1)).append(count);
         return result.toString();
     }
 
@@ -85,6 +86,20 @@ public class Demo {
         return result.toString().trim();
     }
 
+    public static String reverseSentence(String s) {
+        char[] arr = s.toCharArray();
+        int left = 0, right = arr.length - 1;
+
+        while (left < right) {
+            char temp = arr[left];
+            arr[left] = arr[right];
+            arr[right] = temp;
+            left++;
+            right--;
+        }
+        return new String(arr);
+    }
+
     public static void main(String[] args) {
         String testString1 = "i love you";
         String testString2 = "java";
@@ -101,8 +116,10 @@ public class Demo {
             }
         }
         System.out.println(result);
+        System.out.println(compress("uytgggfffdd"));
         System.out.println(removeDuplicates("aaaaabbbbbyttttt"));
         System.out.println(Arrays.stream(res).max());
         System.out.println(reverseWords(testString1));
+        System.out.println(reverseSentence(testString1));
     }
 }
